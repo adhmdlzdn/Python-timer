@@ -1,3 +1,6 @@
+# Simple Lap Timer (Stopwatch)
+# Original Code by Udacity (https://www.udacity.com/blog/2021/09/create-a-timer-in-python-step-by-step-guide.html)
+
 import time
 
 # Mulai timer
